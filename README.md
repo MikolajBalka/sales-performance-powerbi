@@ -21,7 +21,7 @@ The final report contains six pages:
 5. **Product Analysis** - category mix, product sales trend, price-vs-sales analysis and product details.
 6. **Key Objectives** - executive summary of the most important findings.
 
-![Dashboard landing page](assets/landing.png)
+![Dashboard landing page](landing.png)
 
 ---
 
@@ -180,7 +180,7 @@ The report is measure-driven. Selected measures used across the dashboard includ
 | Customer details table | Compare customer-level sales behaviour | account, segment, region, orders, sales, average order, last order |
 | Slicers | Interactive filtering | year, quarter, month, region |
 
-![Customer Analysis](assets/customer-analysis.png)
+![Customer Analysis](customer-analysis.png)
 
 ### Salesperson Performance
 
@@ -192,7 +192,7 @@ The report is measure-driven. Selected measures used across the dashboard includ
 | Salesperson details table | Review sales, quota, goal %, bonus and commission | salesperson fields and measures |
 | Slicers | Interactive filtering | salesperson, quarter, year |
 
-![Salesperson Performance](assets/salesperson-performance.png)
+![Salesperson Performance](salesperson-performance.png)
 
 ### Product Analysis
 
@@ -205,7 +205,7 @@ The report is measure-driven. Selected measures used across the dashboard includ
 | Product details table | Compare product sales, units and average price | product fields and measures |
 | Slicers | Interactive product filtering | category, subcategory, product |
 
-![Product Analysis](assets/product-analysis.png)
+![Product Analysis](product-analysis.png)
 
 ---
 
