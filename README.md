@@ -6,6 +6,12 @@ The report was designed to answer a practical business question: **where is reve
 
 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzUxM2M5OGMtMmUxZS00MzQ4LWE0ZDAtMmQ0OTVmMWFlOTUxIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&pageName=f8466582b259c3bdab82)
 
+### SQL data preparation and validation
+
+T-SQL extension covering data cleaning, quality checks, sales reconciliation and business analysis across 121,317 order lines. Includes CTEs, window functions and documented findings and limitations.
+
+[View SQL scripts and results](SalesPerformance_SQL/README.md)
+
 ---
 
 ## Project overview
